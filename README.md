@@ -21,3 +21,9 @@ El projecto está creado con :
 
 ## Setup
 Para instalar todas las dependencias debes correr el comando `$ npm install` desde tu terminal. 
+
+Para correr el código desde tu terminal, usa el siguiente comando:
+
+`$ npm run <script>`
+
+
